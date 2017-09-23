@@ -1,0 +1,9 @@
+c:\users\dell\documents\visual studio 2010\Projects\GestParc\GestParc\bin\Debug\GestParc.exe
+c:\users\dell\documents\visual studio 2010\Projects\GestParc\GestParc\bin\Debug\GestParc.pdb
+c:\users\dell\documents\visual studio 2010\Projects\GestParc\GestParc\obj\x86\Debug\GestParc.Form1.resources
+c:\users\dell\documents\visual studio 2010\Projects\GestParc\GestParc\obj\x86\Debug\GestParc.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2010\Projects\GestParc\GestParc\obj\x86\Debug\GestParc.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2010\Projects\GestParc\GestParc\obj\x86\Debug\GestParc.exe
+c:\users\dell\documents\visual studio 2010\Projects\GestParc\GestParc\obj\x86\Debug\GestParc.pdb
+C:\Users\dell\Documents\Visual Studio 2010\Projects\GestParc\GestParc\obj\x86\Debug\GestParc.csprojResolveAssemblyReference.cache
+C:\Users\dell\Documents\Visual Studio 2010\Projects\GestParc\GestParc\obj\x86\Debug\GestParc.Panne.resources
